@@ -2,9 +2,9 @@
 ----
   Receives information about the user, inserts it in the database and if succeeds returns the user, returns failure otherwise.
 
-| resource         | method         | parameters                              |
-|:-----------------|:---------------| ----------------------------------------|
-| **/signup**      | **POST**       | **name**: string, **email**: string, **password**: string, **passwordConfirmation**: string|
+| resource            | method         | parameters                              |
+|:--------------------|:---------------| ----------------------------------------|
+| **/api/users**      | **POST**       | **name**: string, **email**: string, **password**: string, **rePassword**: string|
 
 * **URL**
 
@@ -20,7 +20,7 @@
    `name=[string]`
    `email=[string]`
    `password=[string]`
-   `passwordConfirmation=[string]`
+   `rePassword=[string]`
 
 * **Success Response:**
 
@@ -37,17 +37,27 @@
   ```javascript
     $.ajax({
       type : "POST",
-      url: "/signup",
+      url: "/api/users",
       data: {
       	'name': 'Maria Perreira'
         'email': 'valid@email.com',
         'password': 'K$0f3Md39s'
-        'passwordConfirmation': 'K$0f3Md39s'
+        'rePassword': 'K$0f3Md39s'
       },
       success : function(response) {
         // ...
       }
     });
+  ```
+  
+  ```javascript
+  **angular**
+  $http.post('/api/users', {
+      	'name': 'Maria Perreira'
+        'email': 'valid@email.com',
+        'password': 'K$0f3Md39s'
+        'rePassword': 'K$0f3Md39s'
+      }).then(success, error);
   ```
 
 * **Sample Response:**
