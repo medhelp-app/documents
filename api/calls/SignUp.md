@@ -29,8 +29,17 @@
  
 * **Error Response:**
 
-  * **Code:** 500 Internal server error <br />
-    **Content:** `{ error : "Erro ao cadastrar o usuário" }`
+  * **Code:** 400 Bad Request <br />
+    **Content:** `{ error : "E-mail inválido." }`
+
+  * **Code:** 400 Bad Request <br />
+      **Content:** `{ error : "E-mail duplicado." }`
+
+  * **Code:** 400 Bad Request <br />
+      **Content:** `{ error : "Senhas inválidas." }`
+
+  * **Code:** 400 Bad Request <br />
+      **Content:** `{ error : "O campo 'name' é obrigatório." }`
 
 * **Sample Call:**
 
@@ -50,8 +59,8 @@
     });
   ```
   
-  ```javascript
   **angular**
+  ```javascript
   $http.post('/api/users', {
       	'name': 'Maria Perreira'
         'email': 'valid@email.com',
