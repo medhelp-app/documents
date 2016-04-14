@@ -4,7 +4,7 @@
 
 | resource         | method         | parameters                              |
 |:-----------------|:---------------| ----------------------------------------|
-| **/login**       | **POST**       | **email**: string, **password**: string |
+| **/api/users/login**       | **POST**       | **email**: string, **password**: string |
 
 * **URL**
 
@@ -29,7 +29,7 @@
 * **Error Response:**
 
   * **Code:** 401 Unauthorized <br />
-    **Content:** `{ error : "Email and password does not match" }`
+    **Content:** `{ error : "E-mail ou senha inválidos." }`
 
 * **Sample Call:**
 
