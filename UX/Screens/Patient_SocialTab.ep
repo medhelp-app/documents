@@ -29,4 +29,209 @@
             </defs>
             <use xlink:href="#2bb105b8d1615648ac2dfc91f9677ffe" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(1, 1)" p:filter="url(#b62b6a821077b4418d5a99a3cd5a37bc)" style="opacity: 0.6; visibility: hidden; display: none;" p:name="bgCopy" id="5ea7eb7bc7856844aa01467f078c6a24"/>
             <use xlink:href="#2bb105b8d1615648ac2dfc91f9677ffe" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="cf1c3a096ce44c76b307e2076d596986" transform="matrix(1,0,0,1,-4,285)"><p:metadata><p:property name="box"><![CDATA[127,51]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,6.375]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="125" height="49" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="c38dea53de194061af78fa0326a18b31" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="4e514ebf8db54f62bae6e2c6ac6c0f2c">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#c38dea53de194061af78fa0326a18b31" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#4e514ebf8db54f62bae6e2c6ac6c0f2c)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="f7f6c601e964486090a0cec78b4563a0"/>
+            <use xlink:href="#c38dea53de194061af78fa0326a18b31" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="6.375" y="26" width="114.25" height="0" p:name="text" id="7b04e328c1df4201a79d0cc8db321574" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="ae80e3ff98864f4ab80de66de5589c81" transform="matrix(1,0,0,1,120,285)"><p:metadata><p:property name="box"><![CDATA[124,51]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,6.375]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="122" height="49" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="d3d700af79114506959f16c9c5747da2" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="257107470afa41fa89b9997477479d92">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#d3d700af79114506959f16c9c5747da2" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#257107470afa41fa89b9997477479d92)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="f452f8598cb447e2aa4a8e49001ea5da"/>
+            <use xlink:href="#d3d700af79114506959f16c9c5747da2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="6.375" y="26" width="111.25" height="0" p:name="text" id="e2112464a96242da9e53d6ae1d03a2bc" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="898f03fb4e0d45deabcf1be349fa1cd9" transform="matrix(1,0,0,1,241,285)"><p:metadata><p:property name="box"><![CDATA[125,51]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,6.375]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="123" height="49" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="4610949fc04a47deaf12774403d94d4e" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="81b2e13cbb5f49e0960572c132ba162b">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#4610949fc04a47deaf12774403d94d4e" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#81b2e13cbb5f49e0960572c132ba162b)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="2fc4d2e146b24ef78b2ff83a8b9dd1e9"/>
+            <use xlink:href="#4610949fc04a47deaf12774403d94d4e" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="6.375" y="26" width="112.25" height="0" p:name="text" id="2fec1d6952f040208cab70b5644f7562" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.MaterialIcons:account-multiple" id="b3ce9c70c0924b11b12c549c5c316fa0" transform="matrix(1,0,0,1,166,294)"><p:metadata><p:property name="box"><![CDATA[32,32]]></p:property><p:property name="fillColor"><![CDATA[#003366FF]]></p:property></p:metadata>
+      <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="ddeb5f1b330945ea9485e582300d6fbf" width="32" height="32"/>
+      <g p:name="icon" id="eea4f97413fd4c059a70dd26bb9b2281" transform="scale(1.3333333333333333,1.3333333333333333)" style="fill: rgb(0, 51, 102); fill-opacity: 1;">
+        <path stroke-width="0.2" stroke-linejoin="round" d="M 15.9994,12.9981C 15.7094,12.9981 15.3824,13.0161 15.0344,13.0521C 16.1934,13.8891 16.9994,15.0151 16.9994,16.4981L 16.9994,18.9981L 22.9994,18.9981L 22.9994,16.4981C 22.9994,14.1661 18.3324,12.9981 15.9994,12.9981 Z M 7.99939,12.9981C 5.66537,12.9981 0.99939,14.1661 0.99939,16.4981L 0.99939,18.9981L 14.9994,18.9981L 14.9994,16.4981C 14.9994,14.1661 10.3324,12.9981 7.99939,12.9981 Z M 7.99939,10.9981C 9.6564,10.9981 10.9894,9.65407 10.9894,7.99807C 10.9894,6.34207 9.6564,4.99807 7.99939,4.99807C 6.34238,4.99807 4.99939,6.34207 4.99939,7.99807C 4.99939,9.65407 6.34238,10.9981 7.99939,10.9981 Z M 15.9994,10.9981C 17.6564,10.9981 18.9894,9.65407 18.9894,7.99807C 18.9894,6.34207 17.6564,4.99807 15.9994,4.99807C 14.3424,4.99807 12.9994,6.34207 12.9994,7.99807C 12.9994,9.65407 14.3424,10.9981 15.9994,10.9981 Z "/>
+      </g>
+    </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.MaterialIcons:battery-plus" id="1837c0faebd942df96be494468b53c3f" transform="matrix(1,0,0,1,291,298)"><p:metadata><p:property name="box"><![CDATA[24,24]]></p:property><p:property name="fillColor"><![CDATA[#003366FF]]></p:property></p:metadata>
+      <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="5ac0870286e34f99b8266c3c7f06815f" width="24" height="24"/>
+      <g p:name="icon" id="c1df6b3ecd5c427a8100f319d9d3afc6" transform="scale(1,1)" style="fill: rgb(0, 51, 102); fill-opacity: 1;">
+        <path stroke-width="0.2" stroke-linejoin="round" d="M 16.6664,3.99805C 17.4027,3.99805 17.9994,4.59505 17.9994,5.33105L 17.9994,20.665C 17.9994,21.401 17.4027,21.998 16.6664,21.998L 7.33239,21.998C 6.59608,21.998 5.9994,21.401 5.9994,20.665L 5.9994,5.33105C 5.9994,4.59505 6.59608,3.99805 7.33239,3.99805L 8.9994,3.99805L 9,2L 14.9994,1.99805L 14.9994,3.99805L 16.6664,3.99805 Z M 16,14.0001L 16,12.0001L 13,12L 13,9.00008L 11,9.00008L 11,12L 8,12.0001L 8,14.0001L 11,14L 11,17.0001L 13,17.0001L 13,14L 16,14.0001 Z "/>
+      </g>
+    </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.MaterialIcons:account-outline" id="031d1956eed64448b946398bb72c4d22" transform="matrix(1,0,0,1,50,294)"><p:metadata><p:property name="box"><![CDATA[28,28]]></p:property><p:property name="fillColor"><![CDATA[#003366FF]]></p:property></p:metadata>
+      <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="fd685fa48e1f43eab51a424edfde5cb3" width="28" height="28"/>
+      <g p:name="icon" id="6715c509e25a4f3dad661f3ac7f7d84c" transform="scale(1.1666666666666667,1.1666666666666667)" style="fill: rgb(0, 51, 102); fill-opacity: 1;">
+        <path stroke-width="0.2" stroke-linejoin="round" d="M 11.9994,12.9981C 9.3324,12.9981 3.99939,14.3331 3.99939,16.9981L 3.99939,19.9981L 19.9994,19.9981L 19.9994,16.9981C 19.9994,14.3331 14.6664,12.9981 11.9994,12.9981 Z M 11.9994,3.99807C 9.79138,3.99807 7.99939,5.79006 7.99939,7.99807C 7.99939,10.2051 9.79138,11.9981 11.9994,11.9981C 14.2074,11.9981 15.9994,10.2051 15.9994,7.99807C 15.9994,5.79006 14.2074,3.99807 11.9994,3.99807 Z M 11.9994,14.8981C 14.9734,14.8981 18.0994,16.3551 18.0994,16.9981L 18.0994,18.0981L 5.89938,18.0981L 5.89938,16.9981C 5.89938,16.3551 9.02539,14.8981 11.9994,14.8981 Z M 11.9994,5.89807C 13.1574,5.89807 14.0994,6.84007 14.0994,7.99807C 14.0994,9.15607 13.1574,10.0981 11.9994,10.0981C 10.8414,10.0981 9.89938,9.15607 9.89938,7.99807C 9.89938,6.84007 10.8414,5.89807 11.9994,5.89807 Z "/>
+      </g>
+    </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RectWithGradient" id="fdf75b97abc543b592cd936e89b58ff9" transform="matrix(1,0,0,1,-2,336)"><p:metadata><p:property name="box"><![CDATA[363,259]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,16.1875]]></p:property><p:property name="startFillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="endFillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="1c84e47bd4ad4885ba986fa57fc92e82">
+                    <stop style="stop-color: rgb(255, 255, 255); stop-opacity: 1;" offset="0" p:name="stop1" id="c2bc594765ae4281a5b9bb1d21391037"/>
+                    <stop style="stop-color: rgb(255, 255, 255); stop-opacity: 1;" offset="1" p:name="stop2" id="9e5a8750aeb34d67a475f6e2e4892d80"/>
+                </linearGradient>
+                <rect width="363" height="259" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: url(&quot;#1c84e47bd4ad4885ba986fa57fc92e82&quot;) none; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="e4a6edfa0a704078a291ffc712dd52c5" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="835c817f918c4d5d8584981ad65b444c">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#e4a6edfa0a704078a291ffc712dd52c5" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#835c817f918c4d5d8584981ad65b444c)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="aed8bbbd2bba4ddcbb2eb5d7ffac7bc3"/>
+            <use xlink:href="#e4a6edfa0a704078a291ffc712dd52c5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="16.1875" y="130" width="330.625" height="0" p:name="text" id="835cf67faa664f7784bff35f9251d93c" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RectWithGradient" id="d90c83bbca9b4983b8b42cf456b7d791" transform="matrix(1,0,0,1,-1,336)"><p:metadata><p:property name="box"><![CDATA[362,57]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,3.5625]]></p:property><p:property name="startFillColor"><![CDATA[#CCCCCC40]]></p:property><p:property name="endFillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="c0158fc376414a1ba8de70f925d34ec1">
+                    <stop style="stop-color: rgb(204, 204, 204); stop-opacity: 0.25098;" offset="0" p:name="stop1" id="385af3c2633049dcafc4e048b0638bcf"/>
+                    <stop style="stop-color: rgb(255, 255, 255); stop-opacity: 1;" offset="1" p:name="stop2" id="2bf0394052ae4fd68d65410076dd6ee7"/>
+                </linearGradient>
+                <rect width="362" height="57" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: url(&quot;#c0158fc376414a1ba8de70f925d34ec1&quot;) none; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="56ccbb090d7a4a5c8e3bc9da2579f633" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="037b3581b0554b26a88f1f3d45a3c4c5">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#56ccbb090d7a4a5c8e3bc9da2579f633" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#037b3581b0554b26a88f1f3d45a3c4c5)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="a6c23f1302f046aeaa1bb966fe44f247"/>
+            <use xlink:href="#56ccbb090d7a4a5c8e3bc9da2579f633" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="3.5625" y="29" width="354.875" height="0" p:name="text" id="dde673f8db9c4723b4cbeb25894d66d7" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="9e5cad14ea51478fb053a98f9bebdbc0" transform="matrix(1,0,0,1,18,349)"><p:metadata><p:property name="box"><![CDATA[66,63]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,7.875]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="66" height="63" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="174104c327a14eeba20c7c2865c7738a" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="7822295fed464b6ab6dbdcca4e621316">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#174104c327a14eeba20c7c2865c7738a" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#7822295fed464b6ab6dbdcca4e621316)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="68d58415adbf4c5485a2957c5959b13e"/>
+            <use xlink:href="#174104c327a14eeba20c7c2865c7738a" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="7.875" y="32" width="50.25" height="0" p:name="text" id="e25894f402d14d8798b75dc78acbfb39" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="d203e9731073448caa5ccfacf5de6741" transform="matrix(1,0,0,1,94,357)"><p:metadata><p:property name="box"><![CDATA[244,16]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,2]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="244" height="16" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="8ab67868f66f4368b34a0976a12f7ab9" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="f16da9f163f042fa8373c3faf01c0bc8">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#8ab67868f66f4368b34a0976a12f7ab9" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#f16da9f163f042fa8373c3faf01c0bc8)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="0f0efc79d2764a43adaaa77892046b52"/>
+            <use xlink:href="#8ab67868f66f4368b34a0976a12f7ab9" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="2" y="8" width="240" height="0" p:name="text" id="5a83703bd44948ca86ddab0898beee85" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="343e46bcd0a343689225c0e2ad2de59c" transform="matrix(1,0,0,1,94,386)"><p:metadata><p:property name="box"><![CDATA[244,16]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,2]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="244" height="16" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="3d90332fdcb9433aa1dff36de0d122f7" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="a62e0e1857074e7788f8f39377903c6c">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#3d90332fdcb9433aa1dff36de0d122f7" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#a62e0e1857074e7788f8f39377903c6c)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="7e334adc3cf34d4ab3f7239b7eb54108"/>
+            <use xlink:href="#3d90332fdcb9433aa1dff36de0d122f7" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="2" y="8" width="240" height="0" p:name="text" id="65bfd1b15b35414f9d40bfc3dc414e2a" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="745bc06ab6fc4d42a63b4a4c43d72bea" transform="matrix(1,0,0,1,19,499)"><p:metadata><p:property name="box"><![CDATA[66,63]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,7.875]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="66" height="63" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="1f523dedc3e94ad7a5c15d42bb5bc30e" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="c0f9d2b3807e423582edcc0b20c3e118">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#1f523dedc3e94ad7a5c15d42bb5bc30e" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#c0f9d2b3807e423582edcc0b20c3e118)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="1e7994f405694a7099b0ed8b175a009f"/>
+            <use xlink:href="#1f523dedc3e94ad7a5c15d42bb5bc30e" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="7.875" y="32" width="50.25" height="0" p:name="text" id="dc2a52d8ac054e4a9d8e8e5d4da76f0e" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="b3e342e5fb1f4870b9ed24e3978f536f" transform="matrix(1,0,0,1,95,507)"><p:metadata><p:property name="box"><![CDATA[244,16]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,2]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="244" height="16" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="a378f5bbdd384b8ca8a08e2babafea4a" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="0aaab6d4270c40a99618decfa5f381d4">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#a378f5bbdd384b8ca8a08e2babafea4a" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#0aaab6d4270c40a99618decfa5f381d4)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="5b87a66bed5b435682bb768c37e87569"/>
+            <use xlink:href="#a378f5bbdd384b8ca8a08e2babafea4a" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="2" y="8" width="240" height="0" p:name="text" id="ce285a506bef48639729f6118a527e8a" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="64f96082f88f41d9a8d888ea9dfcc226" transform="matrix(1,0,0,1,95,536)"><p:metadata><p:property name="box"><![CDATA[244,16]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,2]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="244" height="16" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="421db98e5b594f6f825872a17dc5212b" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="2c67df5c73604645b1174b934e629a77">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#421db98e5b594f6f825872a17dc5212b" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#2c67df5c73604645b1174b934e629a77)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="00a56efafdf14f5686d69eb5c0d2496f"/>
+            <use xlink:href="#421db98e5b594f6f825872a17dc5212b" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="2" y="8" width="240" height="0" p:name="text" id="5165c05c2ab04d01a41e822c2e8c41ed" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="8f05ad911df64d6a9e3589ea31178671" transform="matrix(1,0,0,1,16,424)"><p:metadata><p:property name="box"><![CDATA[325,15]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,1.875]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="325" height="15" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="a09fd99fad5543eab10d36d478ed1e00" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="ede308289a8e40b79a969e02a8b5c7db">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#a09fd99fad5543eab10d36d478ed1e00" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#ede308289a8e40b79a969e02a8b5c7db)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="c733cc10af3748ef86bf26ac6da38b0e"/>
+            <use xlink:href="#a09fd99fad5543eab10d36d478ed1e00" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="1.875" y="8" width="321.25" height="0" p:name="text" id="cb95c480404043eba38ae817fbc7f9eb" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="f9f502ba36744fc2be4ff257c2e6b32b" transform="matrix(1,0,0,1,17,574)"><p:metadata><p:property name="box"><![CDATA[325,15]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,1.875]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="325" height="15" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="a56e6a4b8c074176b1f4ecfed29691c1" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="ed2e1aefa0e94ee8a0b136ee8bb10f45">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#a56e6a4b8c074176b1f4ecfed29691c1" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#ed2e1aefa0e94ee8a0b136ee8bb10f45)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="f9ecbee06d0f496093ed322d7f9eef0a"/>
+            <use xlink:href="#a56e6a4b8c074176b1f4ecfed29691c1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="1.875" y="8" width="321.25" height="0" p:name="text" id="dd46df4d025742ac9510cc67d36acfbd" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="497516d841814d318bd177c1da87db6b" transform="matrix(1,0,0,1,16,451)"><p:metadata><p:property name="box"><![CDATA[325,15]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,1.875]]></p:property><p:property name="fillColor"><![CDATA[#4388CC80]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property><p:property name="textContent"><![CDATA[
+                ]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="325" height="15" rx="0" ry="0" x="0" y="0" style="stroke-width: 0; fill: rgb(67, 136, 204); fill-opacity: 0.501961; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="2af79c93f3184806b5846258b1375dfa" transform="translate(0,0)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="e47d6b601b3849008c66e018e924106f">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#2af79c93f3184806b5846258b1375dfa" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#e47d6b601b3849008c66e018e924106f)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="c9df6cffd72c4a37b23b7b053630bf23"/>
+            <use xlink:href="#2af79c93f3184806b5846258b1375dfa" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="1.875" y="8" width="321.25" height="0" p:name="text" id="3999802a5cc548b482d5f575dbbadc89" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
         </g></Content></Page></Pages></Document>
