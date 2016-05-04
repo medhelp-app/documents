@@ -16,7 +16,7 @@
             <foreignObject x="0" y="0" width="146" height="20" p:name="htmlObject" id="a7a8a0b307954fc6ad2ee5b73d23ba27" style="color: rgb(255, 255, 255); opacity: 1; font-family: Arial; font-size: 11px; font-weight: normal; font-style: normal; text-decoration: none;">
                 <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="857191256e9c4e6383da9fd860a8a567" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div xmlns="http://www.w3.org/1999/xhtml"><font size="3">Carlos Nepomuceno<br /></font></div></div>
             </foreignObject>
-        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="e092c083884d4e3a825e6320d05aeafd" transform="matrix(1,0,0,1,17,49)"><p:metadata><p:property name="box"><![CDATA[85,85]]></p:property><p:property name="imageData"><![CDATA[1035,1035,../../../../projetao telas/imagens/attractmen.org-libra-men.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="e092c083884d4e3a825e6320d05aeafd" transform="matrix(1,0,0,1,17,49)"><p:metadata><p:property name="box"><![CDATA[85,85]]></p:property><p:property name="imageData"><![CDATA[1035,1035,../Imgs/attractmen.org-libra-men.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
             <defs>
                 <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="4a089f27acab40bdb452090160df1cc7">
                     <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
@@ -24,7 +24,7 @@
                 <g p:name="container" id="058f1fa2186c423c9e46fcebc2b33b87">
                     <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="4f17023d0fdd4a1a90fcf72d13ad2d36" width="85" height="85" transform="translate(0,0)"/>
                     <g p:name="imageContainer" id="c9295197319045d5b0c13517e16f5a91" transform="scale(0.0821256038647343,0.0821256038647343)">
-                        <image x="0" y="0" p:name="image" id="09bcc2964bd4466b976e2f6439c1def2" xlink:href="../../../../projetao telas/imagens/attractmen.org-libra-men.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="1035" height="1035"/>
+                        <image x="0" y="0" p:name="image" id="09bcc2964bd4466b976e2f6439c1def2" xlink:href="../Imgs/attractmen.org-libra-men.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="1035" height="1035"/>
                     </g>
                 </g>
             </defs>
