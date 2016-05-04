@@ -57,7 +57,7 @@
                 <g p:name="container" id="10dd701b36b248dab8b4051e40fa3ba9">
                     <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="55c367156ed04958b821dd874f077be4" width="83" height="83" transform="translate(0,0)"/>
                     <g p:name="imageContainer" id="3aae82b4eed7477c85f6c843df6d8385" transform="scale(0.19904076738609114,0.19904076738609114)">
-                        <image x="0" y="0" p:name="image" id="35bc83a82a0c4abdb0235925b98ed6da" xlink:href="../../../../projetao telas/imagens/doctor01.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="417" height="417"/>
+                        <image x="0" y="0" p:name="image" id="35bc83a82a0c4abdb0235925b98ed6da" xlink:href="../Imgs/doctor01.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="417" height="417"/>
                     </g>
                 </g>
             </defs>
