@@ -49,12 +49,12 @@
 
 * **Sample Response:**
 
-  ```javascript{
-    status: "ok",
-    message-version: "1.0.0",
-    message: {
+  ```javascript
+  {
+    token: "1h valid token",
+    user: {
       id: 12,
       name: "João Silva", 
-      session: "2016-02-03-12:23"
+      email: "joao@silva.com"
     }
   }```
