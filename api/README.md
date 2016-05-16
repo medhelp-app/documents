@@ -12,3 +12,5 @@ Describes the basic api interface, its methods, parameters and returns
 |---------------|-------------------------- |
 | [Login](https://github.com/medhelp-app/documents/blob/master/api/calls/Login.md)    | Authenticates a user if requisites are matched and creates a hashed api key |
 | [SignUp](https://github.com/medhelp-app/documents/blob/master/api/calls/SignUp.md)  | Creates a new user account |
+| [Patient](https://github.com/medhelp-app/documents/blob/master/api/calls/Patient.md) | Patient operations |
+| [Doctor](https://github.com/medhelp-app/documents/blob/master/api/calls/Doctor.md)  | Doctor operations |
