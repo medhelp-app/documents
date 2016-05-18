@@ -37,6 +37,11 @@
    **Required:**
    `name=[string]`
    `email=[string]`
+   
+*  **Headers**
+
+   **Required:**
+   `x-access-token=[valid token received at login]`
 
 * **Success Response:**
 
