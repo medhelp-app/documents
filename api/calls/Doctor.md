@@ -12,6 +12,11 @@
 
    **Required:**
    `id=[string]`
+   
+*  **Headers**
+
+   **Required:**
+   `x-access-token=[valid token received at login]`
 
 * **Success Response:**
 
