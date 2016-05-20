@@ -30,7 +30,7 @@
 
 | resource            | method         | parameters                              |
 |:--------------------|:---------------| ----------------------------------------|
-| **/api/doctors/:id**      | **PUT**       | **profileImage**: image, **name**: string, **email**: string, **streetName**: string, **zipCode**: string, **city**: string, **state**: string, **country**: string, **crm**:int|
+| **/api/doctors/:id**      | **PUT**       | **profileImage**: image, **name**: string, **email**: string, **streetName**: string, **zipCode**: string, **city**: string, **state**: string, **country**: string, **crm**:int, **crmState**: string **doctorType**: string|
 
 *  **URL Params**
 
