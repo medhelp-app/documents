@@ -163,9 +163,9 @@
       <g p:name="icon" id="4aec49453325473186c9ad43029f8850" transform="scale(1,1)" style="fill: rgb(27, 50, 128); fill-opacity: 1;">
         <path stroke-width="0.2" stroke-linejoin="round" d="M 11,19L 11,9C 11,7.89543 10.1046,7 9,7L 5,7L 5,17L 9,17C 10.1046,17 11,17.8954 11,19 Z M 13,9L 13,19C 13,17.8954 13.8954,17 15,17L 19,17L 19,7.00001L 15,7.00001C 13.8954,7.00001 13,7.89543 13,9 Z M 21,19L 15,19C 13.8954,19 13,19.8954 13,21L 11,21C 11,19.8954 10.1046,19 9,19L 3,19L 3,5L 8.99999,5C 10.1046,5 11,5.89543 11,7L 13,7C 13,5.89543 13.8954,5 15,5L 21,5L 21,19 Z "/>
       </g>
-    </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.MaterialIcons:calendar-select" id="93919037b6f148ebb387062eed7456fb" transform="matrix(1,0,0,1,288,205)"><p:metadata><p:property name="box"><![CDATA[24,24]]></p:property><p:property name="fillColor"><![CDATA[#1B3280FF]]></p:property></p:metadata>
-      <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="a956fb4200b54136819924143f9b6614" width="24" height="24"/>
-      <g p:name="icon" id="8b6a0942b2ea4e499ec966e711db0eef" transform="scale(1,1)" style="fill: rgb(27, 50, 128); fill-opacity: 1;">
-        <path stroke-width="0.2" stroke-linejoin="round" d="M 11,12L 17,12L 17,18L 11,18L 11,12 Z M 5,4L 6,4L 6,2.00001L 8,2.00001L 8,4L 16,4L 16,2.00001L 18,2.00001L 18,4L 19,4C 20.1046,4 21,4.89543 21,6L 21,20C 21,21.1046 20.1046,22 19,22L 5,22C 3.89543,22 3,21.1046 3,20L 3,6C 3,4.89543 3.89543,4 5,4 Z M 5,9L 5,20L 19,20L 19,9L 5,9 Z M 13,14L 13,16L 15,16L 15,14L 13,14 Z "/>
+    </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.MaterialIcons:library-books" id="56e9cb58881c464f8ee70669b64206ce" transform="matrix(1,0,0,1,285,205)"><p:metadata><p:property name="box"><![CDATA[24,24]]></p:property><p:property name="fillColor"><![CDATA[#1B3280FF]]></p:property></p:metadata>
+      <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="d1c04ad79ce74655b8d7d6b7e9e96e00" width="24" height="24"/>
+      <g p:name="icon" id="6c8558289c924f14bae86bf62491ee5d" transform="scale(1,1)" style="fill: rgb(27, 50, 128); fill-opacity: 1;">
+        <path stroke-linejoin="round" d="M 19,7L 9,7L 9,5L 19,5M 15,15L 9,15L 9,13L 15,13M 19,11L 9,11L 9,9L 19,9M 20,2L 8,2C 6.9,2 6,2.9 6,4L 6,16C 6,17.1 6.9,18 8,18L 20,18C 21.1,18 22,17.1 22,16L 22,4C 22,2.9 21.1,2 20,2 Z M 4,6L 2,6L 2,20C 2,21.1 2.9,22 4,22L 18,22L 18,20L 4,20L 4,6 Z "/>
       </g>
     </g></Content></Page></Pages></Document>
