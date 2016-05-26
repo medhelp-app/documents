@@ -63,7 +63,7 @@ parts { rightArm, leftArm, rightLeg, leftLeg, stomach, chest, head }
 
 | resource            | method         | parameters                              |
 |:--------------------|:---------------| ----------------------------------------|
-| **/api/patients/:id/bodyparts/:id**      | **GET**       | **id**: string|
+| **/api/patients/:id/bodyparts/:part**      | **GET**       | **part**: string|
 
 *  **URL Params**
 
@@ -103,7 +103,7 @@ parts { rightArm, leftArm, rightLeg, leftLeg, stomach, chest, head }
 
 | resource            | method         | parameters                              |
 |:--------------------|:---------------| ----------------------------------------|
-| **/api/patients/:id/bodyparts**      | **GET**       | **part**: string, **problem**: string, **description**: string, **occurredDate**: string|
+| **/api/patients/:id/bodyparts**      | **POST**       | **part**: string, **problem**: string, **severity**: string,**description**: string, **occurredDate**: string|
 *  **URL Params**
 
    **Required:**
@@ -138,7 +138,7 @@ parts { rightArm, leftArm, rightLeg, leftLeg, stomach, chest, head }
 ####1. Updates a body part and related problem
 | resource            | method         | parameters                              |
 |:--------------------|:---------------| ----------------------------------------|
-| **/api/patients/:id/bodyparts/:id**       | **PUT**       | **part**: string, **problem**: string, **description**: string, **occurredDate**: string|
+| **/api/patients/:id/bodyparts/:id**       | **PUT**       | **part**: string, **problem**: string, **severity**: string,**description**: string, **occurredDate**: string|
 
 *  **URL Params**
 
