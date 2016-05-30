@@ -27,7 +27,7 @@
 
 | resource                 | method         | parameters                              |
 |:-------------------------|:---------------| ----------------------------------------|
-| **/api/patients/:id**    | **PUT**        | **profileImage**: image, **name**: string, **email**: string, **streetName**: string, **zipCode**: string, **city**: string, **state**: string, **country**: string|
+| **/api/patients/:id**    | **PUT**        | **name**: string, **email**: string, **streetName**: string, **zipCode**: string, **city**: string, **state**: string, **country**: string|
   
 *  **URL Params**
 
@@ -52,3 +52,29 @@
 
   * **Code:** 400 Bad Request <br />
       **Content:** `{ error : "E-mail já existente." }`
+
+###Update Image
+
+| resource                 | method         | parameters                              |
+|:-------------------------|:---------------| ----------------------------------------|
+| **/api/patients/:id/image**    | **PUT**        | **profileImage**: image, |
+  
+*  **URL Params**
+
+   **Required:**
+   `profileImage=[file]`
+   
+*  **Body**
+
+   **Required:**
+   `form-data`
+   
+*  **Headers**
+
+   **Required:**
+   `x-access-token=[valid token received at login]`
+   
+* **Success Response:**
+
+  * **Code:** 200 <br />
+    **Content:** `{ sucess: "ok" }`
