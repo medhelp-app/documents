@@ -15,3 +15,4 @@ Describes the basic api interface, its methods, parameters and returns
 | [Patient](https://github.com/medhelp-app/documents/blob/master/api/calls/Patient.md) | Patient operations |
 | [Doctor](https://github.com/medhelp-app/documents/blob/master/api/calls/Doctor.md)  | Doctor operations |
 | [BodyPart](https://github.com/medhelp-app/documents/blob/master/api/calls/BodyPart.md)  | Patient's body parts information |
+| [Prescription](https://github.com/medhelp-app/documents/blob/master/api/calls/Prescription.md)  | Patient's prescription information |
